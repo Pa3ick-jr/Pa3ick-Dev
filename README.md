@@ -1,7 +1,7 @@
 # Hello World, I'm Patrick 👋 
 
 
-## I'm a Developer!!
+## I'm a FrontEnd Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
