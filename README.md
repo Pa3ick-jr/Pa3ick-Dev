@@ -4,7 +4,7 @@
 ## I'm a FrontEnd Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about react
 - ⚡ Fun fact: I love to produce, mix and master music
 
